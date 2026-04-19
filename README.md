@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 50 records |
 | Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-08T01:56:52.183452+00:00 |
+| Last export | 2026-04-15T07:24:33.349421+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-rhode-island-us-sample-463235/releases/download/sample-latest/beamstation_463235_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
