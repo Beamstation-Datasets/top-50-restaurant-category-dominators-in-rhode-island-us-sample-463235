@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1391bb66-fee3-449b-af89-67d145d893a3",
+  "export_job_id": "5dbf9a3d-3542-44b7-9ed0-e84a326f913d",
   "id_short": 463235,
-  "published_at": "2026-04-12T19:14:00Z",
+  "published_at": "2026-04-19T07:28:54Z",
   "repo_name": "top-50-restaurant-category-dominators-in-rhode-island-us-sample-463235",
   "sample_asset_name": "beamstation_463235_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/463235/beamstation_463235_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_records": 5,
-  "sample_sha256": "ef246b4f9ae248ae887ad6f23e9f975cfd06f82573ac280f7e40b2a7c108566d",
-  "sample_size_bytes": 36192,
+  "sample_sha256": "6e48f24bd737b93da93c95246cdf20c04f820cbb781d0537dd1d36c0a76683cf",
+  "sample_size_bytes": 36607,
   "total_records": 50
 }
