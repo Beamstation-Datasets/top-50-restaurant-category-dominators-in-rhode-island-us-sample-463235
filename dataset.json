@@ -6,7 +6,7 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Rhode Island, US",
-  "export_job_id": "1391bb66-fee3-449b-af89-67d145d893a3",
+  "export_job_id": "5dbf9a3d-3542-44b7-9ed0-e84a326f913d",
   "github_org": "Beamstation-Datasets",
   "id_short": 463235,
   "location_name": "Rhode Island",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/463235/beamstation_463235_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 5,
-  "sample_sha256": "ef246b4f9ae248ae887ad6f23e9f975cfd06f82573ac280f7e40b2a7c108566d",
-  "sample_size_bytes": 36192,
+  "sample_sha256": "6e48f24bd737b93da93c95246cdf20c04f820cbb781d0537dd1d36c0a76683cf",
+  "sample_size_bytes": 36607,
   "total_records": 50,
-  "updated_at": "2026-04-08T01:56:52.183452+00:00"
+  "updated_at": "2026-04-15T07:24:33.349421+00:00"
 }
