@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Rhode Island, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `463235` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-15T07:24:33.349421+00:00 |
+| Full dataset size | 41 records |
+| Free sample size | 4 records (9.76%) |
+| Last export | 2026-04-22T13:41:44.889887+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-rhode-island-us-sample-463235/releases/download/sample-latest/beamstation_463235_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
